@@ -2,3 +2,5 @@
 2.HTML
 3.CSS
 4.JAvaScript
+5.PHP
+6.Database MySQL
